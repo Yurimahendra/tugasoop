@@ -1,0 +1,7 @@
+public class Ayuri_mahendra {
+  public static void main(string arg[]){
+    system.out.println(" Nama   : Yuri Mahendra ");
+    system.out.println(" Nim    : 17090005 ");
+    system.out.println(" Kelas  : 4A ");
+  }
+ }
